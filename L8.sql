@@ -1,14 +1,9 @@
--- Name:    Gayane Babayan
--- ID:      107-061-160
--- Lab:     Lab-8
---Date:     8-Nov-2018
-
 set autocommit off;
 
 --Q1
 /*
 Create an INSERT statement to add the first row of data to the SALESREP table from the 
-above sample data. Insert NULL value for the userid column. Include the columns’ name 
+above sample data. Insert NULL value for the userid column. Include the columnsâ€™ name 
 in the INSERT clause. Do not enter all rows yet. 
 */
 --Q1: answer
@@ -153,7 +148,7 @@ SET userid = CONCAT (SUBSTR(first_name,1,1), SUBSTR(last_name,1,7));
 
 --Q10
 /*
-Change the value of the office_number column to ‘unknown’ for sales representatives 
+Change the value of the office_number column to â€˜unknownâ€™ for sales representatives 
 with null office numbers.  
 */
 --Q10: answer
