@@ -1,10 +1,3 @@
--- *********************** 
--- Name: Gayane Babayan 
--- ID: 107-061-160
--- Date: 01-Nov-2018 
--- Purpose: Lab 7 DBS301 
--- *********************** 
-
 /* Q1:
 The HR department needs a list of department IDs for departments that do not contain 
 the job ID ST_CLERK. Use set operators to create this report. 
@@ -108,7 +101,7 @@ where department_id is not null
 
 /* Q6 
 The HR department needs a report with the following specifications: 
-o Last name, department ID, and department’s name of all the employees 
+o Last name, department ID, and departmentâ€™s name of all the employees 
 from the EMPLOYEES table, regardless of whether or not they belong to a department  
 o Department ID and department name of all the departments from the 
 DEPARTMENTS table, regardless of whether or not they have employees working in them 
