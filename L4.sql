@@ -1,9 +1,3 @@
--- ***********************
--- Name: Gayane Babayan
--- ID: 107-061-160
--- Date: 04-Oct-2018
--- Purpose: Lab 4 DBS301
--- ***********************
 -- Question #1 --
 /*
 Display the difference between the Average pay and lowest pay in the company. Name
