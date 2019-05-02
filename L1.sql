@@ -1,10 +1,3 @@
--- ***********************
--- Name: GAYANE BABAYAN
--- ID: 107-061-160
--- Date: 13-Sept-2018
--- Purpose: Lab 1 DBS301
--- *********************** 
-
 --***************************************************************************************************************--
 /*
 --Q1: Which one of these tables appeared to be the widest? or longest?
@@ -25,8 +18,8 @@ EMPLOYEES table is the longest one
 /*
 --Q2: Fix the following SELECT statement.
 
-SELECT last_name ìLNameî, job_id ìJob Titleî, 
-Hire Date ìJob Startî 
+SELECT last_name ‚ÄúLName‚Äù, job_id ‚ÄúJob Title‚Äù, 
+Hire Date ‚ÄúJob Start‚Äù 
 FROM employees;
 */
 --Q2: SOLUTION
