@@ -1,12 +1,5 @@
--- ***********************
--- Name: Gayane Babayan
--- ID: 107-061-160
--- Date: 27-Sept-2018
--- Purpose: Lab 3 DBS301
--- *********************** 
-
 /* Q1:
-Write a query to display the tomorrow’s date in the following format:
+Write a query to display the tomorrowâ€™s date in the following format:
  September 28th of year 2016
 Your result will depend on the day when you RUN/EXECUTE this query. Label the
 column Tomorrow.
@@ -32,11 +25,11 @@ where department_id in (20, 50, 60);
 
 
 /* Q3:
-Write a query that displays the employee’s Full Name and Job Title in the following
+Write a query that displays the employeeâ€™s Full Name and Job Title in the following
 format:
  DAVIES, CURTIS is ST_CLERK
 Only employees whose last name ends with S and first name starts with C or K. Give this
-column an appropriate label like Person and Job. Sort the result by the employees’ last
+column an appropriate label like Person and Job. Sort the result by the employeesâ€™ last
 names. 
 */
 /* Q3: Answer */
@@ -50,7 +43,7 @@ order by last_name;
 
 
 /* Q4:
-For each employee hired before 1992, display the employee’s last name, hire date and
+For each employee hired before 1992, display the employeeâ€™s last name, hire date and
 calculate the number of YEARS between TODAY and the date the employee was hired.
 a. Label the column Years worked. 
 b. Order your results by the number of years employed. Round the number of
@@ -77,7 +70,7 @@ and length(city) >= 8;
 
 
 /* Q6:
-Display each employee’s last name, hire date, and salary review date, which is the first
+Display each employeeâ€™s last name, hire date, and salary review date, which is the first
 Thursday after a year of service, but only for those hired after 1997.
 a. Label the column REVIEW DAY.
 b. Format the dates to appear in the format like:
