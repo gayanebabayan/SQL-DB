@@ -1,11 +1,3 @@
--- *********************** 
--- Name: Gayane Babayan 
--- ID: 107-061-160
--- Date: 15-Nov-2018 
--- Purpose: Lab 9 DBS301 
--- *********************** 
-
-
 CREATE TABLE RETAIL_CENTRE
         (center_id  NUMBER(4) NOT NULL,
         retail_type VARCHAR(25) NOT NULL,
