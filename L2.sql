@@ -1,10 +1,3 @@
--- ***********************
--- Name: Gayane Babayan
--- ID: 107-061-160
--- Date: 20-Sept-2018
--- Purpose: Lab 2 DBS301
--- *********************** 
-
 -- Q1: TASK --
 /*
 Display the employee_id, last name and salary of employees earning in the range of
@@ -80,7 +73,7 @@ order by hire_date desc,
 
 --Q6: TASK --
 /*
-Display the job titles and full names of employees whose first name contains an ‘e’ or ‘E’
+Display the job titles and full names of employees whose first name contains an â€˜eâ€™ or â€˜Eâ€™
 anywhere. The output should look like: (BONUS MARK FOR NOT using the OR keyword
 in the solution but obtaining the same results)
 */
